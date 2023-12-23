@@ -1,5 +1,12 @@
 # ai-image-recognition
- CAD_Phase1 
+ CAD_Phase1
+ thalah itha ithulah upload panna kudathu ithu thapu........ithulah unoda project file oda inforamtion tha kudukanum...!!
+  So ithalah clear pannitti ellathayo oru filelah pottu repositry lah podu.......
+
+
+
+
+ 
 https://drive.google.com/file/d/1g6kuiPzpTpHTmIHc2Ym908fVe_64nrot/view?usp=drive_link
 
  CAD_Phase2
