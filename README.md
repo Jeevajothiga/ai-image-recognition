@@ -1,4 +1,9 @@
 # ai-image-recognition
+thalah itha lahh ithula post panna kudathu.....ithulah project description than kudukanum..!!!
+
+
+
+
  CAD_Phase1 
 https://drive.google.com/file/d/1g6kuiPzpTpHTmIHc2Ym908fVe_64nrot/view?usp=drive_link
 
